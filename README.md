@@ -1,7 +1,7 @@
-<!-- Banner -->
+<!-- Premium Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F2027,50:203A43,100:2C5364&text=Kumar%20Manthri&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Backend%20Engineering&descAlignY=58"/>
 
-<h1 align="center">Hi 👋, I'm Kumar Manthri</h1>
+<h1 align="center">Kumar Manthri</h1>
 
 <p align="center">
 Full Stack Developer • Software Engineering Enthusiast • AI-Driven Applications
@@ -34,59 +34,38 @@ Building scalable web applications and backend systems.
 
 ---
 
-# Featured Projects
+## Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+<p align="center">
 
-### Sarathi AI
-AI-powered travel assistant focused on itinerary generation and recommendation workflows.
+<a href="https://github.com/manthri-kumar/Sarathi-AI">
+<img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=manthri-kumar&repo=Sarathi-AI&theme=tokyonight&hide_border=true&border_radius=15" />
+</a>
 
-🔗 [Repository](https://github.com/manthri-kumar)
+<a href="https://github.com/manthri-kumar/Sanjeevani">
+<img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=manthri-kumar&repo=Sanjeevani&theme=tokyonight&hide_border=true&border_radius=15" />
+</a>
 
-</td>
+<a href="https://github.com/manthri-kumar/Daily-Cart">
+<img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=manthri-kumar&repo=Daily-Cart&theme=tokyonight&hide_border=true&border_radius=15" />
+</a>
 
-<td width="50%">
+<a href="https://github.com/manthri-kumar/Portfolio">
+<img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=manthri-kumar&repo=Portfolio&theme=tokyonight&hide_border=true&border_radius=15" />
+</a>
 
-###  Sanjeevani
-AI-assisted healthcare support system for symptom analysis and intelligent recommendations.
-
-🔗 [Repository](https://github.com/manthri-kumar)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-###  Daily Cart
-Full stack e-commerce platform with JWT authentication and REST APIs.
-
-🔗 [Repository](https://github.com/manthri-kumar)
-
-</td>
-
-<td width="50%">
-
-### 🌐 Portfolio Website
-Modern responsive developer portfolio built using React and TailwindCSS.
-
-🔗 [Repository](https://github.com/manthri-kumar)
-
-</td>
-</tr>
-</table>
+</p>
 
 ---
 
 ## Experience
 
-###  Web Development Intern — Plasmid
+### Web Development Intern — Plasmid
 
 - Developed responsive frontend components
 - Integrated frontend with backend services
-- Worked with Git-based workflows
+- Worked with Git-based collaborative workflows
+- Improved frontend responsiveness and user interaction
 
 ---
 
@@ -94,15 +73,24 @@ Modern responsive developer portfolio built using React and TailwindCSS.
 
 - IEEE International Conference Paper Presentation — ICMSCI 2026
 - Oracle Cloud Infrastructure Foundations Associate
+- Presented HELPR traffic monitoring system using YOLOv8 and EasyOCR
 
 ---
 
 ## GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=manthri-kumar&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthri-kumar&layout=compact&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=manthri-kumar&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthri-kumar&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manthri-kumar&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -120,6 +108,7 @@ Modern responsive developer portfolio built using React and TailwindCSS.
 ## Connect With Me
 
 <p align="center">
+
 <a href="https://github.com/manthri-kumar">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
@@ -127,13 +116,18 @@ Modern responsive developer portfolio built using React and TailwindCSS.
 <a href="https://linkedin.com/in/kumarmanthri">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+
 </p>
 
 <p align="center">
-Portfolio • https://kumarmanthri.vercel.app/
+Portfolio • <a href="https://kumarmanthri.vercel.app/">kumarmanthri.vercel.app</a>
 </p>
 
 ---
+
+<p align="center">
+Open to internships, collaborations, and software engineering opportunities.
+</p>
 
 <p align="center">
 Focused on building scalable software and continuously improving engineering skills.
