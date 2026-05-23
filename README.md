@@ -141,8 +141,8 @@ Modern responsive developer portfolio built using React and TailwindCSS.
 ## Resume
 
 <p align="center">
-<a href="YOUR_RESUME_LINK">
-<img src="https://img.shields.io/badge/Download%20Resume-2563EB?style=for-the-badge&logo=readme&logoColor=white"/>
+<a href="https://drive.google.com/file/d/1TQFn8cjshh_7elnMkCMPiUxuXOMKG9ar/view?usp=sharing" target="_blank">
+<img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 </p>
 
