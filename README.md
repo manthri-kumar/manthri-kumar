@@ -38,20 +38,20 @@ Building scalable web applications and backend systems.
 
 <p align="center">
 
-<a href="https://github.com/manthri-kumar">
-<img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=manthri-kumar&repo=sarathi&theme=tokyonight&hide_border=true&border_radius=15" />
+<a href="https://github.com/manthri-kumar/Sarathi">
+<img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=manthri-kumar&repo=Sarathi&theme=tokyonight&hide_border=true&border_radius=15" />
+</a>
+
+<a href="https://github.com/manthri-kumar/Sanjeevani">
+<img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=manthri-kumar&repo=Sanjeevani&theme=tokyonight&hide_border=true&border_radius=15" />
+</a>
+
+<a href="https://github.com/manthri-kumar/Gesture-Based-Calculator">
+<img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=manthri-kumar&repo=Gesture-Based-Calculator&theme=tokyonight&hide_border=true&border_radius=15" />
 </a>
 
 <a href="https://github.com/manthri-kumar">
-<img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=manthri-kumar&repo=sanjeevani&theme=tokyonight&hide_border=true&border_radius=15" />
-</a>
-
-<a href="https://github.com/manthri-kumar">
-<img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=manthri-kumar&repo=daily-cart&theme=tokyonight&hide_border=true&border_radius=15" />
-</a>
-
-<a href="https://github.com/manthri-kumar">
-<img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=manthri-kumar&repo=portfolio&theme=tokyonight&hide_border=true&border_radius=15" />
+<img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=manthri-kumar&repo=YOUR_PORTFOLIO_REPO_NAME&theme=tokyonight&hide_border=true&border_radius=15" />
 </a>
 
 </p>
