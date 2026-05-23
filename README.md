@@ -1,37 +1,49 @@
-<!-- Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Kumar%20Manthri&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Problem%20Solver%20|%20Open%20Source%20Learner&descAlignY=55"/>
+<!-- Premium Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Kumar%20Manthri&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Software%20Engineering%20Enthusiast&descAlignY=55"/>
 
 <h1 align="center">Hi 👋, I'm Kumar Manthri</h1>
 
 <h3 align="center">
-Building scalable web applications and solving real-world problems 🚀
+Building scalable applications, solving real-world problems, and continuously learning modern software engineering.
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%2B+Node.js+Developer;DSA+Enthusiast;Open+Source+Learner;Building+Projects+That+Matter" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineering+Enthusiast;React+%2B+Node.js+Developer;Backend+Systems+Learner;Problem+Solver;Building+Production-Ready+Projects" />
 </p>
 
 ---
 
 # 💫 About Me
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 🎓 BTech CSE Student at **Amrita Vishwa Vidyapeetham**
 
-💻 Passionate about **Full Stack Development**
+💻 Passionate about:
+- Full Stack Development
+- Backend Engineering
+- Scalable Web Applications
+- Software Architecture
 
-🚀 Building scalable and impactful web applications
+🚀 Currently building:
+- Responsive full-stack applications
+- API-driven systems
+- Real-world engineering projects
 
-🧠 Practicing **Data Structures & Algorithms**
+🧠 Focused on:
+- Data Structures & Algorithms
+- System Design Fundamentals
+- Clean and maintainable code
+- Performance optimization
 
-🌱 Currently learning:
-- Advanced React
+🌱 Currently exploring:
+- Advanced React Patterns
 - Backend Architecture
-- System Design
+- Database Design
+- Authentication & Security
 
-⚡ Goal:
-> Become a strong software engineer and build meaningful products.
+⚡ Career Goal:
+> Become a software engineer capable of building impactful and scalable products.
 
 ---
 
@@ -43,36 +55,56 @@ Building scalable web applications and solving real-world problems 🚀
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Engineering Projects
 
 ## 🛒 Sarathi
-A modern platform focused on delivering user-friendly digital solutions with responsive UI and seamless interaction.
+A modern scalable web application focused on seamless user interaction and responsive user experience.
 
-### Tech Used
+### Highlights
+- Responsive UI
+- API Integration
+- Modular Frontend Architecture
+
+### Tech Stack
 React • Node.js • MySQL
 
 ---
 
 ## 🏥 Sanjeevani
-Healthcare-focused application with frontend-backend integration aimed at improving accessibility and usability.
+Healthcare-oriented platform designed to improve accessibility and digital interaction.
 
-### Tech Used
+### Highlights
+- Frontend-Backend Integration
+- Real-Time User Interaction
+- Clean UI Design
+
+### Tech Stack
 HTML • CSS • JavaScript • Backend APIs
 
 ---
 
 ## ✋ Gesture-Based Calculator
-Real-time hand gesture calculator using OpenCV and MediaPipe capable of recognizing finger patterns for mathematical operations.
+A real-time gesture recognition system capable of performing mathematical operations using computer vision.
 
-### Tech Used
+### Highlights
+- Hand Gesture Recognition
+- Real-Time Processing
+- Computer Vision Integration
+
+### Tech Stack
 Python • OpenCV • MediaPipe
 
 ---
 
 ## 🌐 Portfolio Website
-Personal developer portfolio showcasing projects, technical skills, and achievements with modern responsive design.
+A modern developer portfolio showcasing projects, technical expertise, and engineering journey.
 
-### Tech Used
+### Highlights
+- Responsive Design
+- Modern UI/UX
+- Performance Optimized
+
+### Tech Stack
 React • TailwindCSS • Vercel
 
 ---
@@ -91,13 +123,15 @@ React • TailwindCSS • Vercel
 
 ---
 
-# 🏆 Achievements
+# 🏆 Achievements & Learning
 
 🏅 JEE Advanced Qualified (Top 15%)
 
-💡 Building multiple full-stack and AI-based projects
+💡 Building multiple full-stack and AI-integrated applications
 
-📚 Consistently learning and improving development skills
+📚 Continuously improving software engineering and backend development skills
+
+🧠 Active learner in modern web technologies and scalable systems
 
 ---
 
@@ -126,5 +160,5 @@ React • TailwindCSS • Vercel
 ---
 
 <h3 align="center">
-✨ “Code. Learn. Build. Repeat.” ✨
+✨ Engineering ideas into impactful digital products ✨
 </h3>
