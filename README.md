@@ -40,7 +40,7 @@ Building scalable web applications and backend systems.
 <tr>
 <td width="50%">
 
-### 🚀 Sarathi AI
+### Sarathi AI
 AI-powered travel assistant focused on itinerary generation and recommendation workflows.
 
 🔗 [Repository](https://github.com/manthri-kumar)
@@ -49,7 +49,7 @@ AI-powered travel assistant focused on itinerary generation and recommendation w
 
 <td width="50%">
 
-### 🏥 Sanjeevani
+###  Sanjeevani
 AI-assisted healthcare support system for symptom analysis and intelligent recommendations.
 
 🔗 [Repository](https://github.com/manthri-kumar)
@@ -60,7 +60,7 @@ AI-assisted healthcare support system for symptom analysis and intelligent recom
 <tr>
 <td width="50%">
 
-### 🛒 Daily Cart
+###  Daily Cart
 Full stack e-commerce platform with JWT authentication and REST APIs.
 
 🔗 [Repository](https://github.com/manthri-kumar)
@@ -82,7 +82,7 @@ Modern responsive developer portfolio built using React and TailwindCSS.
 
 ## Experience
 
-### 💼 Web Development Intern — Plasmid
+###  Web Development Intern — Plasmid
 
 - Developed responsive frontend components
 - Integrated frontend with backend services
