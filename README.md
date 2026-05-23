@@ -45,11 +45,8 @@ Building scalable web applications and backend systems.
 
 AI-powered travel assistant focused on itinerary generation and recommendation workflows.
 
-<br>
-
 `React` • `Node.js` • `MongoDB`
 
-<br><br>
 
 🔗 <a href="https://github.com/manthri-kumar/Sarathi">Repository</a>
 
@@ -65,7 +62,6 @@ AI-assisted healthcare support system for symptom analysis and intelligent recom
 
 `Node.js` • `APIs` • `AI Integration`
 
-<br><br>
 
 🔗 <a href="https://github.com/manthri-kumar/Sanjeevani">Repository</a>
 
