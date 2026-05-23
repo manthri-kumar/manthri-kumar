@@ -1,18 +1,18 @@
-<!-- Custom Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F2027,50:203A43,100:2C5364&text=Kumar%20Manthri&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Backend%20Engineering%20•%20AI%20Systems&descAlignY=58"/>
+<!-- Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F2027,50:203A43,100:2C5364&text=Kumar%20Manthri&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Backend%20Engineering&descAlignY=58"/>
 
-<h1 align="center">Kumar Manthri</h1>
+<h1 align="center">Hi 👋, I'm Kumar Manthri</h1>
 
 <p align="center">
-Full Stack Developer • Backend Engineering Enthusiast • AI-Driven Applications
+Full Stack Developer • Software Engineering Enthusiast • AI-Driven Applications
 </p>
 
 <p align="center">
-Building scalable applications, RESTful backend systems, and real-world engineering solutions.
+Building scalable web applications and backend systems.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Backend+Systems+Learner;React+%2B+Node.js+Developer;REST+API+Developer;Building+Production-Ready+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+%2B+Node.js+Developer;REST+API+Developer;Backend+Systems+Learner;Building+Production-Ready+Applications" />
 </p>
 
 ---
@@ -20,10 +20,9 @@ Building scalable applications, RESTful backend systems, and real-world engineer
 ## About Me
 
 - Computer Science undergraduate at **Amrita Vishwa Vidyapeetham**
-- Focused on backend engineering, scalable applications, and software architecture
-- Building production-oriented full stack applications using modern web technologies
-- Practicing Data Structures & Algorithms and system design fundamentals
-- Interested in AI-integrated systems and performance-oriented development
+- Focused on scalable applications and backend systems
+- Interested in software engineering and system architecture
+- Building real-world full stack and AI-integrated projects
 
 ---
 
@@ -35,61 +34,59 @@ Building scalable applications, RESTful backend systems, and real-world engineer
 
 ---
 
-## Engineering Projects
+# Featured Projects
 
-### Sarathi AI — Intelligent Travel Assistant
+<table>
+<tr>
+<td width="50%">
 
-AI-powered travel platform focused on itinerary generation, real-time location insights, and recommendation workflows.
+### 🚀 Sarathi AI
+AI-powered travel assistant focused on itinerary generation and recommendation workflows.
 
-#### Highlights
-- Designed scalable RESTful backend services
-- Integrated Google Maps APIs
-- Developed responsive React frontend
-- Built modular backend architecture
+🔗 [Repository](https://github.com/manthri-kumar)
 
-#### Stack
-React.js • Node.js • MongoDB • REST APIs
+</td>
 
----
+<td width="50%">
 
-### Sanjeevani — AI-Assisted Healthcare Support System
+### 🏥 Sanjeevani
+AI-assisted healthcare support system for symptom analysis and intelligent recommendations.
 
-Healthcare-focused AI platform for symptom analysis and intelligent recommendation generation.
+🔗 [Repository](https://github.com/manthri-kumar)
 
-#### Highlights
-- Backend module development
-- AI-assisted workflows
-- Real-time interaction systems
-- Reliability-focused architecture
+</td>
+</tr>
 
-#### Stack
-Node.js • APIs • Database Systems
+<tr>
+<td width="50%">
 
----
+### 🛒 Daily Cart
+Full stack e-commerce platform with JWT authentication and REST APIs.
 
-### Daily Cart — Full Stack E-Commerce Platform
+🔗 [Repository](https://github.com/manthri-kumar)
 
-Production-oriented e-commerce application supporting scalable cart and order workflows.
+</td>
 
-#### Highlights
-- Developed 12+ RESTful APIs
-- Implemented JWT authentication
-- Optimized MySQL queries
-- Structured modular backend services
+<td width="50%">
 
-#### Stack
-React.js • Node.js • Express.js • MySQL
+### 🌐 Portfolio Website
+Modern responsive developer portfolio built using React and TailwindCSS.
+
+🔗 [Repository](https://github.com/manthri-kumar)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Experience
 
-### Web Development Intern — Plasmid
+### 💼 Web Development Intern — Plasmid
 
 - Developed responsive frontend components
 - Integrated frontend with backend services
-- Improved JavaScript performance
-- Worked with Git-based collaborative workflows
+- Worked with Git-based workflows
 
 ---
 
@@ -97,7 +94,6 @@ React.js • Node.js • Express.js • MySQL
 
 - IEEE International Conference Paper Presentation — ICMSCI 2026
 - Oracle Cloud Infrastructure Foundations Associate
-- Presented HELPR traffic monitoring system using YOLOv8 and EasyOCR
 
 ---
 
@@ -107,10 +103,6 @@ React.js • Node.js • Express.js • MySQL
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=manthri-kumar&show_icons=true&theme=transparent&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthri-kumar&layout=compact&theme=transparent&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manthri-kumar&theme=transparent&hide_border=true"/>
 </p>
 
 ---
@@ -125,7 +117,7 @@ React.js • Node.js • Express.js • MySQL
 
 ---
 
-## Connect
+## Connect With Me
 
 <p align="center">
 <a href="https://github.com/manthri-kumar">
