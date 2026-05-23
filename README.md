@@ -98,12 +98,9 @@ Modern responsive developer portfolio built using React and TailwindCSS.
 ### Portfolio Website
 
 Modern responsive developer portfolio built using React and TailwindCSS.
+`html` `Vercel`
 
-<br>
-
-`html` •  • `Vercel`
-
-🔗 <a href="https://github.com/manthri-kumar">Repository</a>
+🔗 <a href="[https://github.com/manthri-kumar](https://kumarmanthri.vercel.app/)">Protfolio</a>
 
 </td>
 
