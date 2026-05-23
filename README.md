@@ -1,8 +1,6 @@
 <!-- Premium Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F2027,50:203A43,100:2C5364&text=Kumar%20Manthri&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Backend%20Engineering&descAlignY=58"/>
 
-<h1 align="center">Kumar Manthri</h1>
-
 <p align="center">
 Full Stack Developer • Software Engineering Enthusiast • AI-Driven Applications
 </p>
