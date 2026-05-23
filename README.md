@@ -10,7 +10,7 @@ Building scalable web applications and backend systems.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+%2B+Node.js+Developer;REST+API+Developer;Backend+Systems+Learner;Building+Production-Ready+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+Building+Production-Ready+Applications" />
 </p>
 
 ---
