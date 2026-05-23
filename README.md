@@ -56,9 +56,7 @@ AI-powered travel assistant focused on itinerary generation and recommendation w
 
 ### Sanjeevani
 
-AI-assisted healthcare support system for symptom analysis and intelligent recommendations.
-
-<br>
+healthcare support system for symptom analysis and recommendations.
 
 `Node.js` • `APIs` • `AI Integration`
 
@@ -77,11 +75,7 @@ AI-assisted healthcare support system for symptom analysis and intelligent recom
 
 Real-time hand gesture calculator using OpenCV and MediaPipe.
 
-<br>
-
 `Python` • `OpenCV` • `MediaPipe`
-
-<br><br>
 
 🔗 <a href="https://github.com/manthri-kumar/Gesture-Based-Calculator">Repository</a>
 
@@ -92,12 +86,7 @@ Real-time hand gesture calculator using OpenCV and MediaPipe.
 ### Portfolio Website
 
 Modern responsive developer portfolio built using React and TailwindCSS.
-
-<br>
-
 `React` • `TailwindCSS` • `Vercel`
-
-<br><br>
 
 🔗 <a href="https://github.com/manthri-kumar">Repository</a>
 
