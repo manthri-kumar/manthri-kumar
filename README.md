@@ -1,4 +1,4 @@
-<!-- Premium Banner -->
+<!-- Premium Apple-Style Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F2027,50:203A43,100:2C5364&text=Kumar%20Manthri&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Backend%20Engineering%20•%20AI%20Systems&descAlignY=58"/>
 
 <h1 align="center">Kumar Manthri</h1>
@@ -53,29 +53,87 @@ Interested in AI-integrated systems, REST APIs, and performance-oriented develop
 
 <h2 align="center">Featured Projects</h2>
 
+<br><br>
+
+<div align="center">
+
+### Sarathi AI
+
+AI-powered travel assistant focused on itinerary generation and intelligent recommendation workflows.
+
 <br>
 
-<p align="center">
-
-<a href="https://github.com/manthri-kumar/Sarathi-AI">
-<img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=manthri-kumar&repo=Sarathi-AI&theme=tokyonight&hide_border=true&border_radius=18" />
-</a>
-
-<a href="https://github.com/manthri-kumar/Sanjeevani">
-<img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=manthri-kumar&repo=Sanjeevani&theme=tokyonight&hide_border=true&border_radius=18" />
-</a>
-
-<a href="https://github.com/manthri-kumar/Daily-Cart">
-<img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=manthri-kumar&repo=Daily-Cart&theme=tokyonight&hide_border=true&border_radius=18" />
-</a>
-
-<a href="https://github.com/manthri-kumar/Portfolio">
-<img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=manthri-kumar&repo=Portfolio&theme=tokyonight&hide_border=true&border_radius=18" />
-</a>
-
-</p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/>
 
 <br><br>
+
+🔗 <a href="https://github.com/manthri-kumar">Repository</a>
+
+</div>
+
+<br><br><br>
+
+<div align="center">
+
+### Sanjeevani
+
+AI-assisted healthcare support system for symptom analysis and intelligent recommendations.
+
+<br>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
+<img src="https://img.shields.io/badge/API-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI-5C2D91?style=flat-square"/>
+
+<br><br>
+
+🔗 <a href="https://github.com/manthri-kumar">Repository</a>
+
+</div>
+
+<br><br><br>
+
+<div align="center">
+
+### Daily Cart
+
+Full stack e-commerce platform with JWT authentication and REST APIs.
+
+<br>
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql"/>
+
+<br><br>
+
+🔗 <a href="https://github.com/manthri-kumar">Repository</a>
+
+</div>
+
+<br><br><br>
+
+<div align="center">
+
+### Portfolio Website
+
+Modern responsive developer portfolio built using React and TailwindCSS.
+
+<br>
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel"/>
+
+<br><br>
+
+🔗 <a href="https://github.com/manthri-kumar">Repository</a>
+
+</div>
+
+<br><br><br>
 
 <h2 align="center">Experience</h2>
 
