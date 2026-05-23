@@ -1,4 +1,4 @@
-<!-- Banner -->
+<!-- Premium Apple-Style Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F2027,50:203A43,100:2C5364&text=Kumar%20Manthri&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Backend%20Engineering%20•%20AI%20Systems&descAlignY=58"/>
 
 <h1 align="center">Kumar Manthri</h1>
@@ -11,37 +11,53 @@ Full Stack Developer • Backend Engineering Enthusiast • AI-Driven Applicatio
 Building scalable applications, RESTful backend systems, and real-world engineering solutions.
 </p>
 
+<br>
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Backend+Systems+Learner;React+%2B+Node.js+Developer;REST+API+Developer;Building+Production-Ready+Applications" />
 </p>
 
----
+<br><br>
 
-## About Me
+<h2 align="center">About Me</h2>
 
-- Computer Science undergraduate at **Amrita Vishwa Vidyapeetham**
-- Focused on backend engineering, scalable applications, and software architecture
-- Building production-oriented full stack applications using modern web technologies
-- Practicing Data Structures & Algorithms and system design fundamentals
-- Interested in AI-integrated systems and performance-oriented development
+<br>
 
----
+<p align="center">
+Computer Science undergraduate at <b>Amrita Vishwa Vidyapeetham</b>
+</p>
 
-## Tech Stack
+<p align="center">
+Focused on backend engineering, scalable applications, and software architecture.
+</p>
+
+<p align="center">
+Building production-oriented full stack applications using modern web technologies.
+</p>
+
+<p align="center">
+Interested in AI-integrated systems, REST APIs, and performance-oriented development.
+</p>
+
+<br><br>
+
+<h2 align="center">Tech Stack</h2>
+
+<br>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,nodejs,express,mysql,mongodb,git,github,postman,vscode" />
 </p>
 
----
+<br><br>
 
-# Featured Projects
+<h2 align="center">Featured Projects</h2>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<br><br>
 
-### 🚀 Sarathi AI
+<div align="center">
+
+### Sarathi AI
 
 AI-powered travel assistant focused on itinerary generation and intelligent recommendation workflows.
 
@@ -53,13 +69,15 @@ AI-powered travel assistant focused on itinerary generation and intelligent reco
 
 <br><br>
 
-🔗 <a href="https://github.com/manthri-kumar">View Repository</a>
+🔗 <a href="https://github.com/manthri-kumar">Repository</a>
 
-</td>
+</div>
 
-<td width="50%" valign="top">
+<br><br><br>
 
-### 🏥 Sanjeevani
+<div align="center">
+
+### Sanjeevani
 
 AI-assisted healthcare support system for symptom analysis and intelligent recommendations.
 
@@ -71,15 +89,15 @@ AI-assisted healthcare support system for symptom analysis and intelligent recom
 
 <br><br>
 
-🔗 <a href="https://github.com/manthri-kumar">View Repository</a>
+🔗 <a href="https://github.com/manthri-kumar">Repository</a>
 
-</td>
-</tr>
+</div>
 
-<tr>
-<td width="50%" valign="top">
+<br><br><br>
 
-### 🛒 Daily Cart
+<div align="center">
+
+### Daily Cart
 
 Full stack e-commerce platform with JWT authentication and REST APIs.
 
@@ -91,13 +109,15 @@ Full stack e-commerce platform with JWT authentication and REST APIs.
 
 <br><br>
 
-🔗 <a href="https://github.com/manthri-kumar">View Repository</a>
+🔗 <a href="https://github.com/manthri-kumar">Repository</a>
 
-</td>
+</div>
 
-<td width="50%" valign="top">
+<br><br><br>
 
-### 🌐 Portfolio Website
+<div align="center">
+
+### Portfolio Website
 
 Modern responsive developer portfolio built using React and TailwindCSS.
 
@@ -109,34 +129,63 @@ Modern responsive developer portfolio built using React and TailwindCSS.
 
 <br><br>
 
-🔗 <a href="https://github.com/manthri-kumar">View Repository</a>
+🔗 <a href="https://github.com/manthri-kumar">Repository</a>
 
-</td>
-</tr>
-</table>
+</div>
 
----
+<br><br><br>
 
-## Experience
+<h2 align="center">Experience</h2>
 
-### 💼 Web Development Intern — Plasmid
+<br>
 
-- Developed responsive frontend components
-- Integrated frontend with backend services
-- Worked with Git-based collaborative workflows
-- Improved frontend responsiveness and user interaction
+<div align="center">
 
----
+### Web Development Intern — Plasmid
 
-## Achievements
+</div>
 
-- IEEE International Conference Paper Presentation — ICMSCI 2026
-- Oracle Cloud Infrastructure Foundations Associate
-- Presented HELPR traffic monitoring system using YOLOv8 and EasyOCR
+<br>
 
----
+<p align="center">
+• Developed responsive frontend components
+</p>
 
-## GitHub Analytics
+<p align="center">
+• Integrated frontend with backend services
+</p>
+
+<p align="center">
+• Worked with Git-based collaborative workflows
+</p>
+
+<p align="center">
+• Improved frontend responsiveness and user interaction
+</p>
+
+<br><br>
+
+<h2 align="center">Achievements</h2>
+
+<br>
+
+<p align="center">
+🏅 IEEE International Conference Paper Presentation — ICMSCI 2026
+</p>
+
+<p align="center">
+🏅 Oracle Cloud Infrastructure Foundations Associate
+</p>
+
+<p align="center">
+🏅 Presented HELPR traffic monitoring system using YOLOv8 and EasyOCR
+</p>
+
+<br><br>
+
+<h2 align="center">GitHub Analytics</h2>
+
+<br>
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=manthri-kumar&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -144,13 +193,17 @@ Modern responsive developer portfolio built using React and TailwindCSS.
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthri-kumar&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
+<br>
+
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=manthri-kumar&theme=tokyonight&hide_border=true"/>
 </p>
 
----
+<br><br>
 
-## Resume
+<h2 align="center">Resume</h2>
+
+<br>
 
 <p align="center">
 <a href="YOUR_RESUME_LINK">
@@ -158,9 +211,11 @@ Modern responsive developer portfolio built using React and TailwindCSS.
 </a>
 </p>
 
----
+<br><br>
 
-## Connect With Me
+<h2 align="center">Connect With Me</h2>
+
+<br>
 
 <p align="center">
 <a href="https://github.com/manthri-kumar">
@@ -172,15 +227,19 @@ Modern responsive developer portfolio built using React and TailwindCSS.
 </a>
 </p>
 
+<br>
+
 <p align="center">
 Portfolio • https://kumarmanthri.vercel.app/
 </p>
 
----
+<br><br>
 
 <p align="center">
 Open to internships, collaborations, and software engineering opportunities.
 </p>
+
+<br>
 
 <p align="center">
 Focused on building scalable software and continuously improving engineering skills.
