@@ -1,164 +1,152 @@
 <!-- Premium Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Kumar%20Manthri&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Software%20Engineering%20Enthusiast&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Kumar%20Manthri&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Software%20Engineering%20Enthusiast&descAlignY=55"/>
 
-<h1 align="center">Hi 👋, I'm Kumar Manthri</h1>
-
-<h3 align="center">
-Building scalable applications, solving real-world problems, and continuously learning modern software engineering.
-</h3>
+<h1 align="center">Kumar Manthri</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineering+Enthusiast;React+%2B+Node.js+Developer;Backend+Systems+Learner;Problem+Solver;Building+Production-Ready+Projects" />
+Full Stack Developer • Backend Systems Learner • AI-Driven Applications
+</p>
+
+<p align="center">
+Building scalable web applications, backend systems, and real-world engineering projects.
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Engineering+Learner;React+%2B+Node.js+Developer;Building+Scalable+Applications;REST+API+Developer;AI-Driven+Projects" />
 </p>
 
 ---
 
 # About Me
 
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
- BTech CSE Student at **Amrita Vishwa Vidyapeetham**
-
- Passionate about:
-- Full Stack Development
-- Backend Engineering
-- Scalable Web Applications
-- Software Architecture
-
- Currently building:
-- Responsive full-stack applications
-- API-driven systems
-- Real-world engineering projects
-
- Focused on:
-- Data Structures & Algorithms
-- System Design Fundamentals
-- Clean and maintainable code
-- Performance optimization
-
- Currently exploring:
-- Advanced React Patterns
-- Backend Architecture
-- Database Design
-- Authentication & Security
-
- Career Goal:
-> Become a software engineer capable of building impactful and scalable products.
+- Computer Science undergraduate at **Amrita Vishwa Vidyapeetham**
+- Passionate about full stack development and scalable backend systems
+- Interested in software engineering, APIs, databases, and system architecture
+- Building production-oriented applications using modern web technologies
+- Actively practicing Data Structures & Algorithms and backend development
 
 ---
 
-#  Tech Stack
+# Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,nodejs,express,mysql,git,github,vscode" />
-</p>
+### Frontend
+React.js • HTML • CSS • JavaScript
+
+### Backend
+Node.js • Express.js • REST APIs • JWT Authentication
+
+### Databases
+MySQL • MongoDB
+
+### Languages
+JavaScript • Python • Java • SQL
+
+### Tools & Platforms
+Git • GitHub • Postman • VS Code
+
+### Core Concepts
+Data Structures & Algorithms • DBMS • Operating Systems
 
 ---
 
-#  Featured Engineering Projects
+# Featured Projects
 
-## 🛒 Sarathi
-A modern scalable web application focused on seamless user interaction and responsive user experience.
+## Sarathi AI — Intelligent Travel Assistant
+
+Scalable AI-powered travel platform focused on personalized itinerary generation, real-time location insights, and intelligent recommendation workflows.
 
 ### Highlights
-- Responsive UI
-- API Integration
-- Modular Frontend Architecture
+- RESTful backend architecture
+- Google Maps API integration
+- Responsive React frontend
+- Scalable backend services
 
 ### Tech Stack
-React • Node.js • MySQL
+React.js • Node.js • MongoDB • REST APIs
 
 ---
 
-## Sanjeevani
-Healthcare-oriented platform designed to improve accessibility and digital interaction.
+## Sanjeevani — AI-Assisted Healthcare Support System
+
+AI-driven healthcare platform designed for multi-condition symptom analysis and intelligent recommendation generation.
 
 ### Highlights
-- Frontend-Backend Integration
-- Real-Time User Interaction
-- Clean UI Design
+- Backend module development
+- Predictive model integration
+- System reliability optimization
+- Intelligent healthcare workflows
 
 ### Tech Stack
-HTML • CSS • JavaScript • Backend APIs
+Node.js • AI Models • APIs • Database Systems
 
 ---
 
-##  Gesture-Based Calculator
-A real-time gesture recognition system capable of performing mathematical operations using computer vision.
+## Daily Cart — Full Stack E-Commerce Platform
+
+Full stack e-commerce application supporting scalable product, cart, and order management workflows.
 
 ### Highlights
-- Hand Gesture Recognition
-- Real-Time Processing
-- Computer Vision Integration
+- 12+ RESTful API endpoints
+- JWT authentication system
+- Optimized MySQL queries
+- Modular backend architecture
 
 ### Tech Stack
-Python • OpenCV • MediaPipe
+React.js • Node.js • MySQL • Express.js
 
 ---
 
-## Portfolio Website
-A modern developer portfolio showcasing projects, technical expertise, and engineering journey.
+# Experience
 
-### Highlights
-- Responsive Design
-- Modern UI/UX
-- Performance Optimized
+## Web Development Intern — Plasmid
 
-### Tech Stack
-React • TailwindCSS • Vercel
+Worked on responsive web interfaces and backend integration using Node.js and MySQL.
+
+### Contributions
+- Developed responsive UI components
+- Integrated frontend with backend systems
+- Improved JavaScript performance
+- Collaborated using Git workflows
+
+---
+
+# Achievements & Certifications
+
+- IEEE International Conference Paper Presentation — ICMSCI 2026
+- Oracle Cloud Infrastructure Foundations Associate — Oracle
+- Web Development Internship — Plasmid
+- Presented HELPR traffic monitoring system using YOLOv8 and EasyOCR
 
 ---
 
 # GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=manthri-kumar&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=manthri-kumar&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthri-kumar&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manthri-kumar&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthri-kumar&layout=compact&theme=transparent&hide_border=true"/>
 </p>
 
 ---
 
-# Achievements & Learning
-
-🏅 JEE Advanced Qualified (Top 15%)
-
-💡 Building multiple full-stack and AI-integrated applications
-
-📚 Continuously improving software engineering and backend development skills
-
-🧠 Active learner in modern web technologies and scalable systems
-
----
-
-# 🌐 Connect With Me
+# Resume
 
 <p align="center">
-<a href="https://github.com/manthri-kumar">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://linkedin.com/in/kumarmanthri">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="YOUR_RESUME_LINK">
+<img src="https://img.shields.io/badge/Download%20Resume-0A66C2?style=for-the-badge&logo=readme&logoColor=white"/>
 </a>
 </p>
 
-<p align="center">
-🌐 Portfolio: https://kumarmanthri.vercel.app/
-</p>
+---
+
+# Connect
+
+- GitHub: https://github.com/manthri-kumar
+- LinkedIn: https://linkedin.com/in/kumarmanthri
+- Portfolio: https://kumarmanthri.vercel.app/
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=manthri-kumar&label=Profile%20Views&color=0e75b6&style=flat" />
+Focused on building scalable software and continuously improving engineering skills.
 </p>
-
----
-
-<h3 align="center">
-✨ Engineering ideas into impactful digital products ✨
-</h3>
