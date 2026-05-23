@@ -1,18 +1,18 @@
 <!-- Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F2027,50:203A43,100:2C5364&text=Kumar%20Manthri&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Backend%20Engineering&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F2027,50:203A43,100:2C5364&text=Kumar%20Manthri&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Backend%20Engineering%20•%20AI%20Systems&descAlignY=58"/>
 
-<h1 align="center">Hi 👋, I'm Kumar Manthri</h1>
+<h1 align="center">Kumar Manthri</h1>
 
 <p align="center">
-Full Stack Developer • Software Engineering Enthusiast • AI-Driven Applications
+Full Stack Developer • Backend Engineering Enthusiast • AI-Driven Applications
 </p>
 
 <p align="center">
-Building scalable web applications and backend systems.
+Building scalable applications, RESTful backend systems, and real-world engineering solutions.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+%2B+Node.js+Developer;REST+API+Developer;Backend+Systems+Learner;Building+Production-Ready+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Backend+Systems+Learner;React+%2B+Node.js+Developer;REST+API+Developer;Building+Production-Ready+Applications" />
 </p>
 
 ---
@@ -20,9 +20,10 @@ Building scalable web applications and backend systems.
 ## About Me
 
 - Computer Science undergraduate at **Amrita Vishwa Vidyapeetham**
-- Focused on scalable applications and backend systems
-- Interested in software engineering and system architecture
-- Building real-world full stack and AI-integrated projects
+- Focused on backend engineering, scalable applications, and software architecture
+- Building production-oriented full stack applications using modern web technologies
+- Practicing Data Structures & Algorithms and system design fundamentals
+- Interested in AI-integrated systems and performance-oriented development
 
 ---
 
@@ -38,41 +39,77 @@ Building scalable web applications and backend systems.
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Sarathi AI
-AI-powered travel assistant focused on itinerary generation and recommendation workflows.
+### 🚀 Sarathi AI
 
-🔗 [Repository](https://github.com/manthri-kumar)
+AI-powered travel assistant focused on itinerary generation and intelligent recommendation workflows.
+
+<br>
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/>
+
+<br><br>
+
+🔗 <a href="https://github.com/manthri-kumar">View Repository</a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### Sanjeevani
+### 🏥 Sanjeevani
+
 AI-assisted healthcare support system for symptom analysis and intelligent recommendations.
 
-🔗 [Repository](https://github.com/manthri-kumar)
+<br>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
+<img src="https://img.shields.io/badge/API-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI-5C2D91?style=flat-square"/>
+
+<br><br>
+
+🔗 <a href="https://github.com/manthri-kumar">View Repository</a>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-###  Daily Cart
+### 🛒 Daily Cart
+
 Full stack e-commerce platform with JWT authentication and REST APIs.
 
-🔗 [Repository](https://github.com/manthri-kumar)
+<br>
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql"/>
+
+<br><br>
+
+🔗 <a href="https://github.com/manthri-kumar">View Repository</a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-###  Portfolio Website
+### 🌐 Portfolio Website
+
 Modern responsive developer portfolio built using React and TailwindCSS.
 
-🔗 [Repository](https://github.com/manthri-kumar)
+<br>
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel"/>
+
+<br><br>
+
+🔗 <a href="https://github.com/manthri-kumar">View Repository</a>
 
 </td>
 </tr>
@@ -82,11 +119,12 @@ Modern responsive developer portfolio built using React and TailwindCSS.
 
 ## Experience
 
-###  Web Development Intern — Plasmid
+### 💼 Web Development Intern — Plasmid
 
 - Developed responsive frontend components
 - Integrated frontend with backend services
-- Worked with Git-based workflows
+- Worked with Git-based collaborative workflows
+- Improved frontend responsiveness and user interaction
 
 ---
 
@@ -94,15 +132,20 @@ Modern responsive developer portfolio built using React and TailwindCSS.
 
 - IEEE International Conference Paper Presentation — ICMSCI 2026
 - Oracle Cloud Infrastructure Foundations Associate
+- Presented HELPR traffic monitoring system using YOLOv8 and EasyOCR
 
 ---
 
 ## GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=manthri-kumar&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=manthri-kumar&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthri-kumar&layout=compact&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthri-kumar&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manthri-kumar&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -134,6 +177,10 @@ Portfolio • https://kumarmanthri.vercel.app/
 </p>
 
 ---
+
+<p align="center">
+Open to internships, collaborations, and software engineering opportunities.
+</p>
 
 <p align="center">
 Focused on building scalable software and continuously improving engineering skills.
