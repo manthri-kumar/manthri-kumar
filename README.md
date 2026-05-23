@@ -41,7 +41,7 @@ Building scalable web applications and backend systems.
 
 <td width="50%" valign="top">
 
-### 🚀 Sarathi
+## Sarathi
 
 AI-powered travel assistant focused on itinerary generation and recommendation workflows.
 
@@ -59,7 +59,7 @@ AI-powered travel assistant focused on itinerary generation and recommendation w
 
 <td width="50%" valign="top">
 
-### 🏥 Sanjeevani
+### Sanjeevani
 
 AI-assisted healthcare support system for symptom analysis and intelligent recommendations.
 
@@ -81,7 +81,7 @@ AI-assisted healthcare support system for symptom analysis and intelligent recom
 
 <td width="50%" valign="top">
 
-### ✋ Gesture-Based Calculator
+### Gesture-Based Calculator
 
 Real-time hand gesture calculator using OpenCV and MediaPipe.
 
@@ -99,7 +99,7 @@ Real-time hand gesture calculator using OpenCV and MediaPipe.
 
 <td width="50%" valign="top">
 
-### 🌐 Portfolio Website
+### Portfolio Website
 
 Modern responsive developer portfolio built using React and TailwindCSS.
 
