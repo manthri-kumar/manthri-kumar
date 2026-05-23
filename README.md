@@ -50,11 +50,13 @@ Building scalable web applications and backend systems.
 <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=manthri-kumar&repo=Gesture-Based-Calculator&theme=tokyonight&hide_border=true&border_radius=15" />
 </a>
 
-<a href="https://github.com/manthri-kumar">
-<img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=manthri-kumar&repo=YOUR_PORTFOLIO_REPO_NAME&theme=tokyonight&hide_border=true&border_radius=15" />
+<a href="https://github.com/manthri-kumar/portfolio">
+<img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=manthri-kumar&repo=portfolio&theme=tokyonight&hide_border=true&border_radius=15" />
 </a>
 
 </p>
+
+---
 
 ## Experience
 
