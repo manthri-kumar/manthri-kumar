@@ -126,11 +126,7 @@ Modern responsive developer portfolio built using React and TailwindCSS.
 
 ---
 
-<p align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=manthri-kumar&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</p>
 
 
 ## GitHub Analytics
