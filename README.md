@@ -13,12 +13,6 @@ Building scalable web applications and backend systems.
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+Building+Production-Ready+Applications" />
 </p>
 
-<p align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=manthri-kumar&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</p>
-
 ---
 
 ## About Me
@@ -131,6 +125,13 @@ Modern responsive developer portfolio built using React and TailwindCSS.
 - Presented HELPR traffic monitoring system using YOLOv8 and EasyOCR
 
 ---
+
+<p align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=manthri-kumar&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</p>
+
 
 ## GitHub Analytics
 
