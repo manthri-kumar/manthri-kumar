@@ -27,7 +27,7 @@ Building scalable web applications and backend systems.
 ## Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,nodejs,express,mysql,mongodb,git,github,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,express,mysql,mongodb,git,github,postman,vscode" />
 </p>
 
 ---
